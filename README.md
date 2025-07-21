@@ -22,8 +22,8 @@
 ### 2️⃣ Clone Project and Setup
 
 ```bash
-git clone https://github.com/yourusername/internal-docs-chatbot
-cd internal-docs-chatbot
+git clone https://github.com/harithjamadi/ConfluVault.git
+cd ConfluVault
 
 # (Optional) Create and activate a virtual environment
 python -m venv .venv
